@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Saira+Stencil+One&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+font-inter{
+  font-family: 'Inter', sans-serif;
+}
+font-stencil{
+  font-family: 'Saira Stencil One', sans-serif;
+}
