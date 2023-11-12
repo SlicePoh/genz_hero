@@ -23,7 +23,8 @@ const styles = {
   
 export const layout = {
 
-    slide: `w-[500px] rounded-lg h-[600px] object-cover`
+    slide: `w-full rounded-xl h-[450px] object-contain`,
+    prod: `w-full rounded-xl h-[550px] object-contain`
 };
   
 export default styles;

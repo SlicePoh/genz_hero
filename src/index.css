@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Saira+Stencil+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Neonderthaw&family=Syncopate:wght@400;700&display=swap');
 *{
   margin: 0;
   padding: 0;
@@ -17,6 +17,9 @@ button:focus {
 font-inter{
   font-family: 'Inter', sans-serif;
 }
-font-stencil{
-  font-family: 'Saira Stencil One', sans-serif;
+font-sync{
+  font-family: 'Syncopate', sans-serif;
+}
+font-neo{
+  font-family: 'Neonderthaw', cursive;
 }
